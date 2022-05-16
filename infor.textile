@@ -1,0 +1,7 @@
+JRE vs JDK
+
+#JRE - Java Runtime Env. (Usuario)
+#JDK - Java Dev Kit (Dev) 
+
+#JVM - Java Virtual Machine
+	- Interpretador da linguagem
