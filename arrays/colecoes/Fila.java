@@ -1,6 +1,5 @@
 package arrays.colecoes;
 
-import java.rmi.server.SocketSecurityException;
 import java.util.LinkedList;
 import java.util.Queue;
 
