@@ -7,7 +7,7 @@ public class ConjuntoBaguncado {
     public static void main(String[] args) {
         HashSet conjunto = new HashSet();
 
-        conjunto.add(1.7);
+        conjunto.add(1.7); //double --> Double
         conjunto.add(3);
         conjunto.add(true);
         conjunto.add("C");        

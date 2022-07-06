@@ -9,5 +9,9 @@ public class Pilha {
         livros.add("O pequeno principe");
         livros.push("Don Quixote");
         livros.push("O Hobbit");
+
+        System.out.println(livros.peek());
+        System.out.println(livros.element());
+        System.out.println(livros.poll());
     }    
 }
