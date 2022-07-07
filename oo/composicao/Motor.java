@@ -9,7 +9,8 @@ public class Motor {
     int giros() {
         if(!ligado){
             return 0;
+        }else{
+            return (int) Math.round(fatorInjecao * 3000);//Sendo realizado um casting para inteiro;
         }
-        return (int) Math.round(fatorInjecao * 3000);
     }
 }

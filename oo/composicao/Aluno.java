@@ -6,7 +6,7 @@ import java.util.List;
 public class Aluno {  
       
     final String nome;        
-    final List<Curso> cursos = new ArrayList<Curso>();
+    final List<Curso> cursos = new ArrayList<Curso>();//O final na lista, impede que ela seja atribuida uma nova instância, mas pode ter seus valores modificados;
 
     Aluno(String nome){
         this.nome = nome;

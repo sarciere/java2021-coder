@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Compra {
-    List<Item> itens = new ArrayList<Item>();
+    final List<Item> itens = new ArrayList<Item>();
 
     void adicionarItemNaCompra(Produto p, int quantidade){
         this.itens.add(new Item(p, quantidade));

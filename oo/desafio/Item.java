@@ -1,8 +1,8 @@
 package oo.desafio;
 
 public class Item {
-    int quantidade;
-    Produto produto;
+    final int quantidade;
+    final Produto produto;
 
     Item(Produto produto, int quantidade){
         this.produto = produto;
