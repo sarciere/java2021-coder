@@ -1,3 +1,4 @@
+package Conversao.desafio;
 import java.util.Scanner;
 
 public class DesafioConversao {

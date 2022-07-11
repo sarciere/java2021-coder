@@ -1,3 +1,5 @@
+package Conversao.desafio;
+
 public class ConversaoTipoPrimitivos{
 	public static void main(String[] args) {
 		double a = 1; //Implicita

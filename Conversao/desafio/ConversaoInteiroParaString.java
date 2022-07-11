@@ -1,3 +1,5 @@
+package Conversao.desafio;
+
 public class ConversaoInteiroParaString{
 	public static void main(String[] args) {
 		Integer num1 = 10000; //utilizando o wrappers
