@@ -3,7 +3,7 @@ package oo.heranca.teste;
 import oo.heranca.desafio.Civic;
 import oo.heranca.desafio.Ferrari;
 
-public class ClasseTeste {
+public class CarroTeste {
     public static void main(String[] args) {
         Civic civic = new Civic(220);
         Ferrari ferrari = new Ferrari(330);

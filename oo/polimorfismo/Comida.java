@@ -3,7 +3,7 @@ package oo.polimorfismo;
 public class Comida {
     private double peso;
 
-    Comida(double peso){
+    public Comida(double peso){
         setPeso(peso);
     }
     
