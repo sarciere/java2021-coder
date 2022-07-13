@@ -1,4 +1,4 @@
-package Conversao.desafio;
+package Conversao;
 
 public class ConversaoTipoPrimitivos{
 	public static void main(String[] args) {

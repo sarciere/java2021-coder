@@ -1,4 +1,4 @@
-package Conversao.desafio;
+package Conversao;
 import javax.swing.JOptionPane;
 
 /**
