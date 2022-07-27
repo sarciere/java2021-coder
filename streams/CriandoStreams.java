@@ -1,12 +1,8 @@
 package streams;
-
-import java.sql.Array;
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Consumer;
 import java.util.stream.Stream;
-
-import arrays.foreach;
 
 public class CriandoStreams {
     public static void main(String[] args) {
