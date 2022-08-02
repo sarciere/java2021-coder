@@ -17,8 +17,6 @@ public class DesafioMap {
             .map(Integer::toBinaryString)
             .map(inverter)
             .map(binaryToInt)
-            .forEach(System.out::println);
-            
-        
+            .forEach(System.out::println);        
     }
 }
